@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # MARCUS VINNÍCIUS
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front End`**
 
 Me chamo Marcus Vinnícius, tenho 33 anos e sou natural do Piauí. Formado em Análise e Desenvolvimento de Sistemas no UniCEUB.
 <p align="left">
